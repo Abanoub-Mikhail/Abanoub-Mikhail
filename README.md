@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abanoub-Mikhail
 - 👀 I’m interested in Frontend Developer
-- 🌱 I’m currently learning Frameworks
+- 🌱 I’m currently React Developer
 - 📫 How to reach me my Gmail : abanoub.mikhail35@gmail.com
 
 <!---
